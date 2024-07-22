@@ -1,14 +1,19 @@
-**_Developer con cinque anni di esperienza nel settore, specializzato nello sviluppo back-end di applicazioni web in PHP con il framework Symfony e mobile con React Native._**
+**_Developer con sei anni di esperienza nel settore, specializzato nello sviluppo back-end di applicazioni web con vari linguaggi di sviluppo e nella creazione di back-end REST/RESTful API._**
 
 **_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._**
 
-#### [✉️ Email](mailto:lomba90@libero.it) / [🔗 LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [🔗 GitHub](https://github.com/nobady90) / [🔗 Twitter](https://twitter.com/NobadyProducer)
+#### [✉️ Email](mailto:lomba90@libero.it) / [🔗 LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [🔗 GitHub](https://github.com/nobady90)
 
 ## 👨‍💻 Esperienze Professionali
 
-**Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Attuale)_ <br>
+**Developer** @ [Zucchetti Centro Sistemi](http://www.zcscompany.com/it/) - Terranuova Bracciolini (AR) - _(Novembre 2023 - Attuale)_ <br>
+  - Focalizzato sullo sviluppo di back-end REST/RESTful API ed applicazioni native iOS & Android.
+  - **_Linguaggi e tecnologie utilizzate:_** Python, Java, Kotlin, Swift, Google Cloud, Firebase.
+<br><br>
+
+**Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Ottobre 2023)_ <br>
   - Ambiente Linux, sia Back-End che Front-End per sviluppo di gestionali ad uso privato e pubblico.
-  - **_Tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, JavaScript, REST/RESTful API, Git, Docker, Yarn, Npm, Composer, Node.js, Apache, Nginx, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
+  - **_Linguaggi e tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, JavaScript, REST/RESTful API, Git, Docker, Yarn, Npm, Composer, Node.js, Apache, Nginx, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
 <br><br>
 
 **Consulente Informatico** @ [Zucchetti Centro Sistemi](http://www.zcscompany.com/it/) - Terranuova Bracciolini (AR) - _(Ottobre 2012 - Gennaio 2018)_ <br>
